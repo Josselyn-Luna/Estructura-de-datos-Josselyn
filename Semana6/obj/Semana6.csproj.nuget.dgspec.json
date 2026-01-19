@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\lunaj\\Documents\\Tabajos Estructura de datos\\Estructura-de-datos-Josselyn\\MisAsignaturas\\MisAsignaturas.csproj": {}
+    "C:\\Users\\lunaj\\Documents\\Tabajos Estructura de datos\\Estructura-de-datos-Josselyn\\semana6\\Semana6.csproj": {}
   },
   "projects": {
-    "c:\\Users\\lunaj\\Documents\\Tabajos Estructura de datos\\Estructura-de-datos-Josselyn\\MisAsignaturas\\MisAsignaturas.csproj": {
+    "C:\\Users\\lunaj\\Documents\\Tabajos Estructura de datos\\Estructura-de-datos-Josselyn\\semana6\\Semana6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\lunaj\\Documents\\Tabajos Estructura de datos\\Estructura-de-datos-Josselyn\\MisAsignaturas\\MisAsignaturas.csproj",
-        "projectName": "MisAsignaturas",
-        "projectPath": "c:\\Users\\lunaj\\Documents\\Tabajos Estructura de datos\\Estructura-de-datos-Josselyn\\MisAsignaturas\\MisAsignaturas.csproj",
+        "projectUniqueName": "C:\\Users\\lunaj\\Documents\\Tabajos Estructura de datos\\Estructura-de-datos-Josselyn\\semana6\\Semana6.csproj",
+        "projectName": "Semana6",
+        "projectPath": "C:\\Users\\lunaj\\Documents\\Tabajos Estructura de datos\\Estructura-de-datos-Josselyn\\semana6\\Semana6.csproj",
         "packagesPath": "C:\\Users\\lunaj\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\lunaj\\Documents\\Tabajos Estructura de datos\\Estructura-de-datos-Josselyn\\MisAsignaturas\\obj\\",
+        "outputPath": "C:\\Users\\lunaj\\Documents\\Tabajos Estructura de datos\\Estructura-de-datos-Josselyn\\semana6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lunaj\\AppData\\Roaming\\NuGet\\NuGet.Config"
