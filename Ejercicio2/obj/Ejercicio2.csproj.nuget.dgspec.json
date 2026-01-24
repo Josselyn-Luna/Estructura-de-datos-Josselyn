@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lunaj\\Documents\\Tabajos Estructura de datos\\Estructura-de-datos-Josselyn\\Ejercicio2\\Ejercicio2.csproj": {}
+    "C:\\Users\\lunaj\\Documents\\Tabajos Estructura de datos\\Estructura-de-datos-Josselyn\\ejercicio2\\Ejercicio2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lunaj\\Documents\\Tabajos Estructura de datos\\Estructura-de-datos-Josselyn\\Ejercicio2\\Ejercicio2.csproj": {
+    "C:\\Users\\lunaj\\Documents\\Tabajos Estructura de datos\\Estructura-de-datos-Josselyn\\ejercicio2\\Ejercicio2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lunaj\\Documents\\Tabajos Estructura de datos\\Estructura-de-datos-Josselyn\\Ejercicio2\\Ejercicio2.csproj",
+        "projectUniqueName": "C:\\Users\\lunaj\\Documents\\Tabajos Estructura de datos\\Estructura-de-datos-Josselyn\\ejercicio2\\Ejercicio2.csproj",
         "projectName": "Ejercicio2",
-        "projectPath": "C:\\Users\\lunaj\\Documents\\Tabajos Estructura de datos\\Estructura-de-datos-Josselyn\\Ejercicio2\\Ejercicio2.csproj",
+        "projectPath": "C:\\Users\\lunaj\\Documents\\Tabajos Estructura de datos\\Estructura-de-datos-Josselyn\\ejercicio2\\Ejercicio2.csproj",
         "packagesPath": "C:\\Users\\lunaj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lunaj\\Documents\\Tabajos Estructura de datos\\Estructura-de-datos-Josselyn\\Ejercicio2\\obj\\",
+        "outputPath": "C:\\Users\\lunaj\\Documents\\Tabajos Estructura de datos\\Estructura-de-datos-Josselyn\\ejercicio2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lunaj\\AppData\\Roaming\\NuGet\\NuGet.Config"
